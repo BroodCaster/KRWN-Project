@@ -1,5 +1,5 @@
 const KRWN = artifacts.require("KRWN");
 
 module.exports = function (deployer) {
-  deployer.deploy(KRWN, 'ipfs://bafybeidkqq5k3cpuurn3xfn4qihrbdxesd6suqecucdid66idom4vnx2sy/');
+  deployer.deploy(KRWN, 'ipfs://bafybeigbqfruihxljwr72ydxqrfoj765fp6x5czbb3mjewr7au53y2rlqy/');
 };

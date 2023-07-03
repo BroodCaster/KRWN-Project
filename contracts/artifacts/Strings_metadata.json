@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "String operations.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/KRWN_flat.sol": "Strings"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/KRWN_flat.sol": {
+			"keccak256": "0xc52a7ad3ac29b662a0cea97b2f542e30f6324acafffe8687c46061be188c6e32",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1144025f671425ca9cf576450d62353a36e304e6780b3d1b76867f829b1794ce",
+				"dweb:/ipfs/QmTtEvPJ8yxX2iLsB7pBUhnndNKaNc3JfRYP647CZPqnAJ"
+			]
+		}
+	},
+	"version": 1
+}
